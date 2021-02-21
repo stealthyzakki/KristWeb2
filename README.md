@@ -15,10 +15,7 @@
   </tr>
 </table>
 
-<h2 align="center"><a href="https://docs.google.com/spreadsheets/d/1_ehN2SeN4wzBAW9UUCTKn0uMlPeBMAXSjBVijwsPfvo/edit?usp=sharing">TODO LIST</a></h2>
-
-*This project is heavily under development. It is currently in the design 
-stages, meaning there is **no useful functionality yet***.
+<h2 align="center"><a href="https://docs.google.com/spreadsheets/d/1_ehN2SeN4wzBAW9UUCTKn0uMlPeBMAXSjBVijwsPfvo/edit?usp=sharing">The Oringal TODO LIST</a></h2>
 
 Rewrite of the Krist Web Wallet, in React. This is a fully clientside Krist 
 wallet that only needs to communicate to the Krist node itself. It securely 
@@ -44,6 +41,7 @@ git clone https://github.com/tmpim/KristWeb2
 cd KristWeb2
 npm install
 npm run build # Build the production files
+npm start
 ```
 
 ### Contributing
@@ -86,7 +84,7 @@ To provide hosting credits in the sidebar footer, create the file
 
 ```json
 {
-  "name": "Lemmmy",
+  "name": "StealthyZakkki",
   "url": "https://github.com/Lemmmy"
 }
 ```
