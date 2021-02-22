@@ -84,14 +84,14 @@ To provide hosting credits in the sidebar footer, create the file
 
 ```json
 {
-  "name": "StealthyZakkki",
+  "name": "WhateverYourNameIs - Or - Lemmy",
   "url": "https://github.com/Lemmmy"
 }
 ```
 
 ### Donate
 
-If you like my work, and want to help me with this hobby project and many more
+If you like Lemmy's work, and want to help me with this hobby project and many more
 in the future, please consider [donating](https://donate.lemmmy.pw).
 
 ### License
